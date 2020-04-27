@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/weather-three/static/css/main.8e5d8d89.chunk.css",
-    "main.js": "/weather-three/static/js/main.6fb3e048.chunk.js",
-    "main.js.map": "/weather-three/static/js/main.6fb3e048.chunk.js.map",
-    "runtime-main.js": "/weather-three/static/js/runtime-main.bc698c34.js",
-    "runtime-main.js.map": "/weather-three/static/js/runtime-main.bc698c34.js.map",
-    "static/js/2.eabe0411.chunk.js": "/weather-three/static/js/2.eabe0411.chunk.js",
-    "static/js/2.eabe0411.chunk.js.map": "/weather-three/static/js/2.eabe0411.chunk.js.map",
-    "index.html": "/weather-three/index.html",
-    "precache-manifest.00410c7ba35a780cc152647493527850.js": "/weather-three/precache-manifest.00410c7ba35a780cc152647493527850.js",
-    "service-worker.js": "/weather-three/service-worker.js",
-    "static/css/main.8e5d8d89.chunk.css.map": "/weather-three/static/css/main.8e5d8d89.chunk.css.map",
-    "static/js/2.eabe0411.chunk.js.LICENSE.txt": "/weather-three/static/js/2.eabe0411.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/weather-three/static/media/sun.9ddbb295.jpg"
+    "main.css": "/weatherapp/static/css/main.9c1488f0.chunk.css",
+    "main.js": "/weatherapp/static/js/main.6121757e.chunk.js",
+    "main.js.map": "/weatherapp/static/js/main.6121757e.chunk.js.map",
+    "runtime-main.js": "/weatherapp/static/js/runtime-main.d6b406ef.js",
+    "runtime-main.js.map": "/weatherapp/static/js/runtime-main.d6b406ef.js.map",
+    "static/js/2.eabe0411.chunk.js": "/weatherapp/static/js/2.eabe0411.chunk.js",
+    "static/js/2.eabe0411.chunk.js.map": "/weatherapp/static/js/2.eabe0411.chunk.js.map",
+    "index.html": "/weatherapp/index.html",
+    "precache-manifest.ac4954308e5e0e1d4603cd98dddf50de.js": "/weatherapp/precache-manifest.ac4954308e5e0e1d4603cd98dddf50de.js",
+    "service-worker.js": "/weatherapp/service-worker.js",
+    "static/css/main.9c1488f0.chunk.css.map": "/weatherapp/static/css/main.9c1488f0.chunk.css.map",
+    "static/js/2.eabe0411.chunk.js.LICENSE.txt": "/weatherapp/static/js/2.eabe0411.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/weatherapp/static/media/sun.9ddbb295.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bc698c34.js",
+    "static/js/runtime-main.d6b406ef.js",
     "static/js/2.eabe0411.chunk.js",
-    "static/css/main.8e5d8d89.chunk.css",
-    "static/js/main.6fb3e048.chunk.js"
+    "static/css/main.9c1488f0.chunk.css",
+    "static/js/main.6121757e.chunk.js"
   ]
 }
